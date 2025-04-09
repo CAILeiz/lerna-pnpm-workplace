@@ -1,0 +1,9 @@
+{
+  "name": "@demo/app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@demo/utils": "workspace:*",
+    "react": "^19.1.0"
+  }
+}
